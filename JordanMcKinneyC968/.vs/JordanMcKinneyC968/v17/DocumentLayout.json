@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|c:\\users\\8bits\\desktop\\wgu school\\c968\\jordanmckinneyc968\\jordanmckinneyc968\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|solutionrelative:jordanmckinneyc968\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|c:\\users\\8bits\\desktop\\wgu school\\c968\\jordanmckinneyc968\\jordanmckinneyc968\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|solutionrelative:jordanmckinneyc968\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|c:\\users\\8bits\\desktop\\wgu school\\c968\\jordanmckinneyc968\\jordanmckinneyc968\\outsourced.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|solutionrelative:jordanmckinneyc968\\outsourced.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|c:\\users\\8bits\\desktop\\wgu school\\c968\\jordanmckinneyc968\\jordanmckinneyc968\\inhouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|solutionrelative:jordanmckinneyc968\\inhouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|c:\\users\\8bits\\desktop\\wgu school\\c968\\jordanmckinneyc968\\jordanmckinneyc968\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|solutionrelative:jordanmckinneyc968\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|c:\\users\\8bits\\desktop\\wgu school\\c968\\jordanmckinneyc968\\jordanmckinneyc968\\modify part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|solutionrelative:jordanmckinneyc968\\modify part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|c:\\users\\8bits\\desktop\\wgu school\\c968\\jordanmckinneyc968\\jordanmckinneyc968\\modify part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|solutionrelative:jordanmckinneyc968\\modify part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|c:\\users\\8bits\\desktop\\wgu school\\c968\\jordanmckinneyc968\\jordanmckinneyc968\\modify product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|solutionrelative:jordanmckinneyc968\\modify product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|c:\\users\\8bits\\desktop\\wgu school\\c968\\jordanmckinneyc968\\jordanmckinneyc968\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|solutionrelative:jordanmckinneyc968\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|c:\\users\\8bits\\desktop\\wgu school\\c968\\jordanmckinneyc968\\jordanmckinneyc968\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|solutionrelative:jordanmckinneyc968\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|c:\\users\\8bits\\desktop\\wgu school\\c968\\jordanmckinneyc968\\jordanmckinneyc968\\modify product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|solutionrelative:jordanmckinneyc968\\modify product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|c:\\users\\8bits\\desktop\\wgu school\\c968\\jordanmckinneyc968\\jordanmckinneyc968\\add part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|solutionrelative:jordanmckinneyc968\\add part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|c:\\users\\8bits\\desktop\\wgu school\\c968\\jordanmckinneyc968\\jordanmckinneyc968\\add part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF469B75-C062-4840-BDA1-4AA56423D60F}|JordanMcKinneyC968\\JordanMcKinneyC968.csproj|solutionrelative:jordanmckinneyc968\\add part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Outsourced.cs",
+              "DocumentMoniker": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\Outsourced.cs",
+              "RelativeDocumentMoniker": "JordanMcKinneyC968\\Outsourced.cs",
+              "ToolTip": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\Outsourced.cs",
+              "RelativeToolTip": "JordanMcKinneyC968\\Outsourced.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:32:05.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inhouse.cs",
+              "DocumentMoniker": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\Inhouse.cs",
+              "RelativeDocumentMoniker": "JordanMcKinneyC968\\Inhouse.cs",
+              "ToolTip": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\Inhouse.cs",
+              "RelativeToolTip": "JordanMcKinneyC968\\Inhouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:32:00.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Part.cs",
+              "DocumentMoniker": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\Part.cs",
+              "RelativeDocumentMoniker": "JordanMcKinneyC968\\Part.cs",
+              "ToolTip": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\Part.cs",
+              "RelativeToolTip": "JordanMcKinneyC968\\Part.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:31:51.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\Product.cs",
+              "RelativeDocumentMoniker": "JordanMcKinneyC968\\Product.cs",
+              "ToolTip": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\Product.cs",
+              "RelativeToolTip": "JordanMcKinneyC968\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:28:19.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Modify Product.cs",
+              "DocumentMoniker": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\Modify Product.cs",
+              "RelativeDocumentMoniker": "JordanMcKinneyC968\\Modify Product.cs",
+              "ToolTip": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\Modify Product.cs",
+              "RelativeToolTip": "JordanMcKinneyC968\\Modify Product.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAEwIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:25:05.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Modify Part.cs",
+              "DocumentMoniker": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\Modify Part.cs",
+              "RelativeDocumentMoniker": "JordanMcKinneyC968\\Modify Part.cs",
+              "ToolTip": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\Modify Part.cs",
+              "RelativeToolTip": "JordanMcKinneyC968\\Modify Part.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:21:04.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Modify Part.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\Modify Part.cs",
+              "RelativeDocumentMoniker": "JordanMcKinneyC968\\Modify Part.cs",
+              "ToolTip": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\Modify Part.cs [Design]",
+              "RelativeToolTip": "JordanMcKinneyC968\\Modify Part.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:20:58.277Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\Inventory.cs",
+              "RelativeDocumentMoniker": "JordanMcKinneyC968\\Inventory.cs",
+              "ToolTip": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\Inventory.cs",
+              "RelativeToolTip": "JordanMcKinneyC968\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:18:49.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Modify Product.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\Modify Product.cs",
+              "RelativeDocumentMoniker": "JordanMcKinneyC968\\Modify Product.cs",
+              "ToolTip": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\Modify Product.cs [Design]",
+              "RelativeToolTip": "JordanMcKinneyC968\\Modify Product.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T21:17:40.639Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Add Part.cs",
+              "DocumentMoniker": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\Add Part.cs",
+              "RelativeDocumentMoniker": "JordanMcKinneyC968\\Add Part.cs",
+              "ToolTip": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\Add Part.cs",
+              "RelativeToolTip": "JordanMcKinneyC968\\Add Part.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAhwHQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:45:30.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Add Part.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\Add Part.cs",
+              "RelativeDocumentMoniker": "JordanMcKinneyC968\\Add Part.cs",
+              "ToolTip": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\Add Part.cs [Design]",
+              "RelativeToolTip": "JordanMcKinneyC968\\Add Part.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:45:27.71Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\main.cs",
+              "RelativeDocumentMoniker": "JordanMcKinneyC968\\main.cs",
+              "ToolTip": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\main.cs",
+              "RelativeToolTip": "JordanMcKinneyC968\\main.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAIwHEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:19:38.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\main.cs",
+              "RelativeDocumentMoniker": "JordanMcKinneyC968\\main.cs",
+              "ToolTip": "C:\\Users\\8bits\\Desktop\\WGU SCHOOl\\C968\\JordanMcKinneyC968\\JordanMcKinneyC968\\main.cs [Design]",
+              "RelativeToolTip": "JordanMcKinneyC968\\main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:19:33.16Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

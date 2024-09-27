@@ -1,0 +1,14 @@
+C:\Users\8bits\Desktop\WGU SCHOOl\C968\JordanMcKinneyC968\JordanMcKinneyC968\obj\Debug\JordanMcKinneyC968.csproj.AssemblyReference.cache
+C:\Users\8bits\Desktop\WGU SCHOOl\C968\JordanMcKinneyC968\JordanMcKinneyC968\obj\Debug\JordanMcKinneyC968.main.resources
+C:\Users\8bits\Desktop\WGU SCHOOl\C968\JordanMcKinneyC968\JordanMcKinneyC968\obj\Debug\JordanMcKinneyC968.Properties.Resources.resources
+C:\Users\8bits\Desktop\WGU SCHOOl\C968\JordanMcKinneyC968\JordanMcKinneyC968\obj\Debug\JordanMcKinneyC968.csproj.GenerateResource.cache
+C:\Users\8bits\Desktop\WGU SCHOOl\C968\JordanMcKinneyC968\JordanMcKinneyC968\obj\Debug\JordanMcKinneyC968.csproj.CoreCompileInputs.cache
+C:\Users\8bits\Desktop\WGU SCHOOl\C968\JordanMcKinneyC968\JordanMcKinneyC968\bin\Debug\JordanMcKinneyC968.exe.config
+C:\Users\8bits\Desktop\WGU SCHOOl\C968\JordanMcKinneyC968\JordanMcKinneyC968\bin\Debug\JordanMcKinneyC968.exe
+C:\Users\8bits\Desktop\WGU SCHOOl\C968\JordanMcKinneyC968\JordanMcKinneyC968\bin\Debug\JordanMcKinneyC968.pdb
+C:\Users\8bits\Desktop\WGU SCHOOl\C968\JordanMcKinneyC968\JordanMcKinneyC968\obj\Debug\JordanMcKinneyC968.exe
+C:\Users\8bits\Desktop\WGU SCHOOl\C968\JordanMcKinneyC968\JordanMcKinneyC968\obj\Debug\JordanMcKinneyC968.pdb
+C:\Users\8bits\Desktop\WGU SCHOOl\C968\JordanMcKinneyC968\JordanMcKinneyC968\obj\Debug\JordanMcKinneyC968.Add_Part.resources
+C:\Users\8bits\Desktop\WGU SCHOOl\C968\JordanMcKinneyC968\JordanMcKinneyC968\obj\Debug\JordanMcKinneyC968.Modify_Part.resources
+C:\Users\8bits\Desktop\WGU SCHOOl\C968\JordanMcKinneyC968\JordanMcKinneyC968\obj\Debug\JordanMcKinneyC968.Add_Product.resources
+C:\Users\8bits\Desktop\WGU SCHOOl\C968\JordanMcKinneyC968\JordanMcKinneyC968\obj\Debug\JordanMcKinneyC968.Modify_Product.resources
